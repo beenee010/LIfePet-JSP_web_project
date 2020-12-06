@@ -2,46 +2,6 @@
 
 [LIfePet](http://3.35.4.148:8080/welcome.jsp)
 
-![pc_photo (1)](https://user-images.githubusercontent.com/65976572/101275944-20ae4200-37ed-11eb-8867-f525b8439093.png)
-![pc_photo (19)](https://user-images.githubusercontent.com/65976572/101275978-54896780-37ed-11eb-9ae3-bd5e07115a80.png)
-![pc_photo (20)](https://user-images.githubusercontent.com/65976572/101275981-55ba9480-37ed-11eb-949c-52f85d1a44cc.png)
-
-
-
-
-![pc_photo (25)](https://user-images.githubusercontent.com/65976572/101275987-57845800-37ed-11eb-82a3-76439ffddaec.png)
-
-![pc_photo (27)](https://user-images.githubusercontent.com/65976572/101275989-581cee80-37ed-11eb-8f33-540649c7c57d.png)
-
-
-
-
-![pc_photo (32)](https://user-images.githubusercontent.com/65976572/101275995-59e6b200-37ed-11eb-887d-8be49af596b4.png)
-
-
-
-
-![pc_photo (37)](https://user-images.githubusercontent.com/65976572/101276000-5bb07580-37ed-11eb-9223-4fae9cb166cb.png)
-![pc_photo (38)](https://user-images.githubusercontent.com/65976572/101276001-5c490c00-37ed-11eb-8104-9df3b81691c9.png)
-![pc_photo (39)](https://user-images.githubusercontent.com/65976572/101276002-5c490c00-37ed-11eb-8235-2e7c9c304638.png)
-
-
-
-
-
-
-
-
-
-
-![pc_photo (13)](https://user-images.githubusercontent.com/65976572/101276016-610dc000-37ed-11eb-9724-578b1c9de28c.png)
-![pc_photo (14)](https://user-images.githubusercontent.com/65976572/101276017-61a65680-37ed-11eb-81c3-f80eaa9ad469.png)
-![pc_photo (15)](https://user-images.githubusercontent.com/65976572/101276018-623eed00-37ed-11eb-8db7-3bb0f91ca467.png)
-![pc_photo (16)](https://user-images.githubusercontent.com/65976572/101276019-623eed00-37ed-11eb-9b10-a3c4567ad071.png)
-![pc_photo (17)](https://user-images.githubusercontent.com/65976572/101276020-62d78380-37ed-11eb-9e74-e77bb5905ba0.png)
-![pc_photo (18)](https://user-images.githubusercontent.com/65976572/101276021-62d78380-37ed-11eb-8f78-476025c536b1.png)
-
-
 ## 이용방법
 
 ### 1. 위의 링크로 접속한다.
