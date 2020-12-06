@@ -1,20 +1,25 @@
 # LIfePet (라이펫)
 
-[LIfePet](http://3.35.4.148:8080/welcome.jsp)
+## [LIfePet](http://3.35.4.148:8080/welcome.jsp) - http://3.35.4.148:8080/welcome.jsp
+
 
 ## 개요
 ### 해당 웹 사이트는 반려동물 관련 포스팅, 상품구매, 중고거래, 반려동물 목록 관리 등을 하기 위한 사이트입니다.
 
+
 ## Version
-### Java openjdk-11
-### Mysql-5.7.31
-### Eclipse
-### Tomcat 9.37
+### - Java openjdk-11
+### - Mysql-5.7.31
+### - Eclipse
+### - Tomcat 9.37
+
 
 ## 프로젝트 구조
 Java와 JS, CSS 등을 활용하여 제작하였습니다.
 Database는 MySQL을 사용하였고, Tomcat-9로 호스팅 하였습니다.
-호스팅 서버는 AWS 우분투 입니다.
+호스팅 서버는 AWS 우분투 입니다. 개인정보는 이용하지 않으며 허위 정보를 사용하셔도 됩니다.
+실제로 판매나 구매가 이루어지지 않으며 데모 버전임을 알려드립니다.
+
 
 ## 이용방법
 
@@ -121,5 +126,4 @@ Database는 MySQL을 사용하였고, Tomcat-9로 호스팅 하였습니다.
 ### 6. 주문 목록을 클릭하면 다른 이용자들이 주문한 목록의 전체가 나타나게 된다.
 ### 7. 배송정보를 수정할 수 있으며, 주문을 삭제하기 위해서는 처음 로그인할 때 사용한 관리자의 비밀번호를 입력해야 한다.
 ![pc_photo (34)](https://user-images.githubusercontent.com/65976572/101275997-5b17df00-37ed-11eb-8c93-7503cae00a6b.png)
-
 
