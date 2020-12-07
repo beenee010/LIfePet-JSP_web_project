@@ -43,13 +43,21 @@ Database는 MySQL을 사용하였고, Tomcat-9로 호스팅 하였습니다.
 |    |    |--...
 |    |--dbconn.jsp         // JDBC 연결 코드
 |    |--processWelcome.jsp // welcome 페이지 처리
-|    |welcome.jsp        // 메인 페이지
+|    |welcome.jsp          // 메인 페이지
 |----build/classes  
 |----src
-|    |----
+|    |----bundle          // 다국어 처리
+|    |    |--...
+|    |----dao           // Repository: Post, Item, Flea 등의 데이터 처리 및 회원가입 처리
+|    |    |--...
+|    |----dto           // Class (Object): Post, Item, Flea 등의 객체 클래스
+|    |    |--...
+|    |----utils         // 페이징 처리를 위한 유틸
+|    |    |--...
 |--LIfePet_Sources.war  
 |--README.md  
 ```
+  
 ## 이용방법
 
 ### 1. 위의 링크로 접속한다.
