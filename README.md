@@ -18,9 +18,38 @@
 Java와 JS, CSS 등을 활용하여 제작하였습니다.
 Database는 MySQL을 사용하였고, Tomcat-9로 호스팅 하였습니다.
 호스팅 서버는 AWS 우분투 입니다. 개인정보는 이용하지 않으며 허위 정보를 사용하셔도 됩니다.
-실제로 판매나 구매가 이루어지지 않으며 데모 버전임을 알려드립니다.
-
-
+실제로 판매나 구매가 이루어지지 않으며 데모 버전임을 알려드립니다.  
+  
+## 디렉터리 구조
+```
+|----WebContent  
+|    |----META-INF  
+|    |----WEB-INF
+|    |    |--web.xml
+|    |    |--...
+|    |----assets         // bootstrap
+|    |    |--...
+|    |----board          // 게시판
+|    |    |--...
+|    |----exeption       // 예외처리
+|    |    |--...
+|    |----fleaMarket     // 중고 거래
+|    |    |--...
+|    |----main           // 로그인, 회원가입, 마이페이지 등
+|    |    |--...
+|    |----resources      // 저장된 이미지, js, css, ..
+|    |    |----...
+|    |----shop           // 상점
+|    |    |--...
+|    |--dbconn.jsp         // JDBC 연결 코드
+|    |--processWelcome.jsp // welcome 페이지 처리
+|    |welcome.jsp        // 메인 페이지
+|----build/classes  
+|----src
+|    |----
+|--LIfePet_Sources.war  
+|--README.md  
+```
 ## 이용방법
 
 ### 1. 위의 링크로 접속한다.
