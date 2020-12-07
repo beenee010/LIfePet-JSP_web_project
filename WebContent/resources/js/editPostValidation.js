@@ -20,9 +20,9 @@ function CheckFormData() {
 	if (checkSpecial(text, "내용")) return;
 	if (checkSpecial(category, "분류")) return;
 
-	if (!checkSearchedWord(title, title.value)) return;
-	if (!checkSearchedWord(text, text.value)) return;
-	if (!checkSearchedWord(category, category.value)) return;
+//	if (!checkSearchedWord(title, title.value)) return;
+//	if (!checkSearchedWord(text, text.value)) return;
+//	if (!checkSearchedWord(category, category.value)) return;
 
 	function checkBlank(e, name) {
 		if (e.value == "") {

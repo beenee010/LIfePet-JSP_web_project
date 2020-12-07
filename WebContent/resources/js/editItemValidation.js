@@ -50,9 +50,9 @@ function CheckFormData() {
 	if (checkSpecial(description, "상세 정보")) return;
 	if (checkSpecial(category, "분류")) return;
 
-	if (!checkSearchedWord(name, name.value)) return;
-	if (!checkSearchedWord(description, description.value)) return;
-	if (!checkSearchedWord(category, category.value)) return;
+//	if (!checkSearchedWord(name, name.value)) return;
+//	if (!checkSearchedWord(description, description.value)) return;
+//	if (!checkSearchedWord(category, category.value)) return;
 
 	/*-----------Function------------*/
 

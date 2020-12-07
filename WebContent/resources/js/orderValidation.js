@@ -20,11 +20,11 @@ function OrderCheck(){
 	if(memo.value != null)
 		if(checkSpecial(memo, "메모")) return;
 	
-	if(!checkSearchedWord(name, name.value)) return;
-	if(!checkSearchedWord(country, country.value)) return;
-	if(!checkSearchedWord(zip, zip.value)) return;
-	if(!checkSearchedWord(address, address.value)) return;
-	if(!checkSearchedWord(memo, memo.value)) return;
+//	if(!checkSearchedWord(name, name.value)) return;
+//	if(!checkSearchedWord(country, country.value)) return;
+//	if(!checkSearchedWord(zip, zip.value)) return;
+//	if(!checkSearchedWord(address, address.value)) return;
+//	if(!checkSearchedWord(memo, memo.value)) return;
 	
 	
 	/*------------------------Function-------------------------*/
