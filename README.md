@@ -14,7 +14,7 @@
 ### - Tomcat 9.37
 
 ## 관리자용 ID
-ID: admin
+ID: admin  
 Password: password1@
 
 ## 프로젝트 구조
