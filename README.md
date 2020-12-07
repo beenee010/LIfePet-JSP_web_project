@@ -13,6 +13,9 @@
 ### - Eclipse
 ### - Tomcat 9.37
 
+## 관리자용 ID
+ID: admin
+Password: password1@
 
 ## 프로젝트 구조
 Java와 JS, CSS 등을 활용하여 제작하였습니다.
