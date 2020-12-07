@@ -43,7 +43,7 @@ Database는 MySQL을 사용하였고, Tomcat-9로 호스팅 하였습니다.
 |    |    |--...
 |    |--dbconn.jsp         // JDBC 연결 코드
 |    |--processWelcome.jsp // welcome 페이지 처리
-|    |welcome.jsp          // 메인 페이지
+|    |--welcome.jsp          // 메인 페이지
 |----build/classes  
 |----src
 |    |----bundle          // 다국어 처리
